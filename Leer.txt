@@ -1,0 +1,1 @@
+Bueno, yo terminé todo el Onboarding de Github. Ahora estaba con el de ruby. Estuve haciendo el ejercicio 5a part1, el cual consistía en poder crear un gist a través de la API de GitHub Gist. Logré hacer que el programa lea un archivo con el nombre que yo le paso. Pero no logré que el programa pueda crear el Gist, es decir que no puede hacer el POST a la api.
